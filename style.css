@@ -63,7 +63,9 @@
       text-align: center;
       width: 100%;
   }
-
+  .card{
+    height: 600px;
+  }
   .card-title {
       text-align: center;
   }
